@@ -1,0 +1,2 @@
+# Markets for Resilience or "Disaster Capitalism"?
+This is the organization for the project "Markets for Resilience or 'Disaster Capitalism'? A Multi-method Critical Discourse Analysis of OECD's 'Studies on Water' Reports (2009-2021)". Please visit our entry in the [Research Software Directory](https://www.research-software.nl/projects/390ecb95-308e-4b3e-b1a8-18a7b9cca95d) for further information.
